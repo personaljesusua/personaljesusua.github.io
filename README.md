@@ -1,1 +1,1 @@
-[Paper theme](https://github.com/TimDaub/jsonresume-theme-paper) by TimDaub
+Created with [MDL](https://getmdl.io)
