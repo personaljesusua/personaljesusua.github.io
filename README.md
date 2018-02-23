@@ -1,1 +1,1 @@
-Created with [MDL](https://getmdl.io)
+Created with [material-design-template](https://github.com/joashp/material-design-template)
